@@ -1,3 +1,5 @@
+(The date is the last update, not the release date)
+
 Thesis project of B.Sc. in mathematics in Reykjavík University.
 
 Abstract.
